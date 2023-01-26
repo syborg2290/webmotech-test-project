@@ -1,0 +1,35 @@
+.home_content{
+  margin: 10%;
+}
+
+.table_history{
+ width: fit-content
+}
+
+.dates_range{
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.date_span{
+  opacity: 0.7;
+}
+
+.export_container{
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding-right: 10%;
+}
+
+.export_csv{
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 5%;
+  font-weight: bold;
+  margin-right: 10%;
+}
